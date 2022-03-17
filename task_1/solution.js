@@ -60,3 +60,4 @@ function addInCartSumChange(sum, delta) {
     return newSumText;
 }
 
+
