@@ -40,7 +40,7 @@ let countOfGoods = goods.length;
 let goods = {title: (goods[i].title), count: (goods[i].title)};
 
     for (let i = 0; i <= countOfGoods; i += 1) {
-       console.log (data.goods.push(goods[i].title));
+       data.goods.push(goods[i].title);
     }
     
     data.order.address = address;
