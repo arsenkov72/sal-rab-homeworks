@@ -41,9 +41,9 @@ JSON.parse(json)
     ```
 2. Вызовите в функции renderProductsCards функцию clearProducts() - 
 она уже написана в коде, просто вызовите ее таким образом: 
-    ```javascript
+    javascript
     clearProducts();
-    ```
+    
 3. Создайте в функции renderProductsCards переменную products
 4. Присвойте переменной products результат выполнения функции parseProducts, 
 передав в неё json - аргумент функции следующим образом:
